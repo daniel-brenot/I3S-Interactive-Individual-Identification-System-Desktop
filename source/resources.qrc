@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.svg</file>
+        <file>images/cancel.svg</file>
+        <file>images/cancelD.svg</file>
+        <file>images/classicIcon.svg</file>
+        <file>images/confirm.svg</file>
+        <file>images/contourIcon.svg</file>
+        <file>images/exclamation.svg</file>
+        <file>images/facebook.svg</file>
+        <file>images/lock.svg</file>
+        <file>images/manual.svg</file>
+        <file>images/minus.svg</file>
+        <file>images/newFile.svg</file>
+        <file>images/patternIcon.svg</file>
+        <file>images/patternPlusIcon.svg</file>
+        <file>images/plus.svg</file>
+        <file>images/print.svg</file>
+        <file>images/question.svg</file>
+        <file>images/refresh.svg</file>
+        <file>images/save.svg</file>
+        <file>images/search.svg</file>
+        <file>images/spotIcon.svg</file>
+        <file>images/straightenIcon.svg</file>
+        <file>images/youtube.svg</file>
+        <file>images/edit.svg</file>
+        <file>images/i.svg</file>
+        <file>images/pointer.svg</file>
+    </qresource>
+</RCC>
